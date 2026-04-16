@@ -56,6 +56,12 @@ I'm a **C# / .NET Backend Engineer** focused on building scalable, maintainable,
 
 ---
 
+
+## 📊 My commits
+
+![Calendar of commits](metrics.calendario.svg)
+
+---
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
@@ -65,6 +71,7 @@ I'm a **C# / .NET Backend Engineer** focused on building scalable, maintainable,
 | **CleanArchBoilerplate** | Reusable boilerplate for Clean Architecture with MediatR and FluentValidation | `C#` `.NET 8` `MediatR` `xUnit` `Moq` |
 
 ---
+
 <!--
 ## 📌 Pinned Repositories
 
