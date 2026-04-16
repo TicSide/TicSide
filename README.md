@@ -48,18 +48,20 @@ I'm a **C# / .NET Backend Engineer** focused on building scalable, maintainable,
 
 ## 📈 GitHub Stats
 
+
+![Languages](lenguajes.svg)
+
+
 <a href="http://www.github.com/TicSide"><img src="https://github-readme-stats.vercel.app/api?username=TicSide&show_icons=true&hide=stars,prs,&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="TicSide's GitHub stats" />
 
 <a href="http://www.github.com/TicSide"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TicSide&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></a>
 
-<a href="https://github.com/TicSide" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TicSide&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
----
 
 
 ## 📊 My commits
 
 ![Calendar of commits](metrics.calendario.svg)
+
 
 ---
 ## 🚀 Featured Projects
