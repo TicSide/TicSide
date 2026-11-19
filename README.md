@@ -1,9 +1,9 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7229F7,100:14b8a6&height=220&section=header&text=Omar%20Rivera&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=.NET%20Backend%20%E2%80%A2%20UX%20%2F%20Figma%20%E2%80%A2%20Game%20Dev&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7229F7,100:14b8a6&height=220&section=header&text=Omar%20Rivera&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Java%20%26%20Spring%20Backend%20%E2%80%A2%20UX%20%2F%20Figma%20%E2%80%A2%20Game%20Dev&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=620&lines=%F0%9F%91%8B+Hi%2C+I'm+Omar+Rivera;C%23+%7C+.NET+Backend+Developer;Clean+Architecture+%7C+CQRS+%7C+Azure;Building+DenunciaYa+%F0%9F%9A%80;UX+%26+Figma+lover+%F0%9F%8E%A8;14+games+on+itch.io+%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=620&lines=%F0%9F%91%8B+Hi%2C+I'm+Omar+Rivera;Backend+with+Java+%26+Spring+Boot;Learning+.NET+%26+ASP.NET+Core;Building+DenunciaYa+%F0%9F%9A%80;UX+%26+Figma+lover+%F0%9F%8E%A8;14+games+on+itch.io+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=TicSide&label=Profile%20views&color=7229F7&style=flat-square" alt="profile views" />
@@ -29,14 +29,13 @@
 <tr>
 <td width="55%" valign="top">
 
-I'm a **C# / .NET Backend Engineer** focused on building scalable, maintainable and high-performance APIs and microservices. I advocate for clean code, SOLID principles and continuous improvement.
+I'm a **Software Engineering student at UPC** (Lima, Peru) looking for a **backend internship**.
 
-- 🔭 Working with **.NET 8/9**, **EF Core** and **Minimal APIs**
-- 🧠 Deep diving into **Clean Architecture**, **CQRS** and **MediatR**
-- ☁️ Exploring **Azure Functions**, **Service Bus** and containers
-- 🧪 Passionate about **unit testing**, **TDD** and **xUnit / Moq**
-- 🎨 Designing products end-to-end in **Figma**
-- 🎮 Making games with **Unity** in game jams
+- ☕ Backend with **Java** and **Spring Boot**: in DenunciaYa I built the complaints module (domain model, JPA + MySQL persistence and 17 REST endpoints documented with OpenAPI)
+- 🅰️ Frontend work with **Angular** and **TypeScript** in team projects
+- 📚 Learning **.NET** and **ASP.NET Core**, building on the C# I use in Unity
+- 🎨 Designing interfaces in **Figma**
+- 🎮 Making games with **Unity** and **C#** in game jams
 
 </td>
 <td width="45%" valign="top">
@@ -47,9 +46,8 @@ public class OmarRivera : IEngineer
     public string Location => "Lima, Perú";
     public string[] Focus => new[]
     {
-        "Backend .NET",
-        "Clean Architecture",
-        "Cloud (Azure)",
+        "Backend (Java / Spring Boot)",
+        "Learning .NET",
         "UX / Figma",
         "Game Dev (Unity)"
     };
@@ -71,7 +69,7 @@ public class OmarRivera : IEngineer
 <div align="center">
 
 **Backend & Languages**<br/>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,go,python,nodejs,express,js,ts&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,nodejs,express,js,ts&perline=10" />
 
 **Frontend & Design**<br/>
 <img src="https://skillicons.dev/icons?i=angular,vue,astro,tailwind,html,css,figma&perline=10" />
@@ -81,7 +79,7 @@ public class OmarRivera : IEngineer
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" />
 
 **Cloud & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,githubactions,terraform,git,github&perline=10" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github&perline=10" />
 
 **Game Dev**<br/>
 <img src="https://skillicons.dev/icons?i=unity&perline=10" />
@@ -136,7 +134,7 @@ Final project for the *Arquitecturas de Software Emergentes* course: UX research
 ### ⚡ SEMS — Smart Energy Management
 <sub>Microservices · Startup Energix</sub>
 
-Smart meter platform for homes. Built as microservices with an API Gateway; I contributed to IAM, devices, alerts, payments, subscriptions, analytics and energy monitoring services.
+Smart meter platform for homes. Built as microservices with an API Gateway; I wrote tests and documentation across five of the services.
 
 <p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -325,7 +323,7 @@ REST APIs (store with auth and cart, and task manager) that demonstrate a Git Fl
 
 <div align="center">
 
-<a href="https://linkedin.com/in/omar-rivera-ticllacuri-1547b4256" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/omar-rivera-ticllacuri/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://instagram.com/tic.side" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://www.youtube.com/@TicSide" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://tic-side.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" /></a>
