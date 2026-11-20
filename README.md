@@ -232,7 +232,7 @@ REST APIs (store with auth and cart, and task manager) that demonstrate a Git Fl
 
 <table>
 <tr>
-<td align="center"><a href="https://tic-side.itch.io/yupachayna"><img src="https://img.itch.zone/aW1nLzIxNzIyODk2LmdpZg==/315x250%23c/%2FfRme6.gif" width="180" /><br/><b>Yupachayna</b></a><br/><sub>Adventure · Peru Jam 2025</sub></td>
+<td align="center"><a href="https://tic-side.itch.io/yupachayna"><img src="https://img.itch.zone/aW1nLzIxNzIyODk2LmdpZg==/315x250%23c/%2FfRme6.gif" width="180" /><br/><b>Yupachayna</b></a><br/><sub>Adventure · Patrimonio Game Jam 2025</sub></td>
 <td align="center"><a href="https://tic-side.itch.io/handemonium"><img src="https://img.itch.zone/aW1nLzE3Mjk2NzU1LmpwZw==/315x250%23c/bw0%2B2D.jpg" width="180" /><br/><b>Handemonium</b></a><br/><sub>Platformer</sub></td>
 <td align="center"><a href="https://tic-side.itch.io/thecrimsonphantoms"><img src="https://img.itch.zone/aW1nLzE3MTQ2ODI0LnBuZw==/315x250%23c/PIobM5.png" width="180" /><br/><b>The Crimson Phantoms</b></a><br/><sub>Adventure</sub></td>
 <td align="center"><a href="https://tic-side.itch.io/cuter-than-linda"><img src="https://img.itch.zone/aW1nLzE5MTg2NTQ2LnBuZw==/315x250%23c/KQouHI.png" width="180" /><br/><b>Cuter than Linda</b></a><br/><sub>Adventure</sub></td>
@@ -251,7 +251,7 @@ REST APIs (store with auth and cart, and task manager) that demonstrate a Git Fl
 </tr>
 </table>
 
-<sub>Made with Unity and C# in game jams: Peru Jam 2025 · Lima Game Jam 2025 · LAGS Game Jam 2025 · Pirate Software Jam 2025 · Indie Dev Jam #3 · GameLab 2024</sub>
+<sub>Made with Unity and C# in game jams: Patrimonio Game Jam 2025 · Lima Game Jam 2025 · LAGS Game Jam 2025 · Pirate Software Jam 2025 · Indie Dev Jam #3 · GameLab 2024</sub>
 
 </div>
 
