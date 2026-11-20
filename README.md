@@ -30,7 +30,7 @@
 <tr>
 <td width="55%" valign="top">
 
-I'm a **Software Engineering student at UPC** (Lima, Peru) looking for a **backend internship**.
+I'm a **Software Engineering student at UPC** (Lima, Peru) working toward becoming a **full stack developer**, with backend as my foundation.
 
 🌐 **Portfolio:** [omar-rivera.vercel.app](https://omar-rivera.vercel.app), with case studies that link to the code and say which parts I built.
 
