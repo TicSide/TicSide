@@ -7,6 +7,7 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=TicSide&label=Profile%20views&color=7229F7&style=flat-square" alt="profile views" />
+  <a href="https://omar-rivera.vercel.app"><img src="https://img.shields.io/badge/Portfolio-omar--rivera.vercel.app-7229F7?style=flat-square&logo=vercel&logoColor=white" alt="portfolio" /></a>
   <img src="https://img.shields.io/badge/Lima-Per%C3%BA-14b8a6?style=flat-square&logo=googlemaps&logoColor=white" alt="location" />
   <img src="https://img.shields.io/badge/Open%20to-collaborate-7229F7?style=flat-square" alt="open to collaborate" />
 </p>
@@ -30,6 +31,8 @@
 <td width="55%" valign="top">
 
 I'm a **Software Engineering student at UPC** (Lima, Peru) looking for a **backend internship**.
+
+🌐 **Portfolio:** [omar-rivera.vercel.app](https://omar-rivera.vercel.app), with case studies that link to the code and say which parts I built.
 
 - ☕ Backend with **Java** and **Spring Boot**: in DenunciaYa I built the complaints module (domain model, JPA + MySQL persistence and 17 REST endpoints documented with OpenAPI)
 - 🅰️ Frontend work with **Angular** and **TypeScript** in team projects
